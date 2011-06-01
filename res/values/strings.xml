@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="address">送信先メールアドレス</string>
+    <string name="app_name">SOS</string>
+<string name="select">送信用ツール選択</string>
+<string name="message">送信データ内容</string>
+<string name="caption">LOCATIONと入力すると送信時に位置情報URLに置換されます</string>
+<string name="sound">アラート音を再生する</string>
+</resources>

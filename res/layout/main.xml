@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+<TextView android:id="@+id/TextView02" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/select"></TextView><CheckBox android:text="@+id/CheckBox01" android:id="@+id/CheckBox01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:checked="true"></CheckBox><CheckBox android:text="@+id/CheckBox02" android:id="@+id/CheckBox02" android:layout_width="wrap_content" android:layout_height="wrap_content" android:checked="true"></CheckBox><TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:id="@+id/TextView01" android:text="@string/address"/>
+<EditText android:id="@+id/EditText01" android:layout_height="wrap_content" android:layout_width="fill_parent"></EditText>
+<Button android:text="@+id/Button01" android:id="@+id/Button01" android:layout_width="wrap_content" android:layout_height="wrap_content"></Button>
+
+
+
+<TextView android:id="@+id/TextView03" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/message"></TextView>
+<EditText android:id="@+id/EditText02" android:layout_width="wrap_content" android:layout_height="wrap_content"></EditText>
+<TextView android:id="@+id/TextView04" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/caption"></TextView>
+<CheckBox android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/CheckBox03" android:text="@string/sound"></CheckBox>
+</LinearLayout>
